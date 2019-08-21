@@ -1,0 +1,47 @@
+#wrapper{
+
+}
+#header{
+  background-color: coral;
+  height:100px;
+  padding: 10px;
+  margin: 10px;
+}
+#logo
+{
+  background-color: brown;
+  height:80px;
+  padding: 10px;
+  width: 100px;
+}
+#navbar{
+  background-color: cadetblue;
+  height:50px ;
+  margin: 10px;
+}
+#container{
+
+}
+
+#section-1{
+  background-color: yellow;
+  height:300px;
+  width:25%;
+  margin-top: 10px;
+  float:left;
+
+}
+#section-2{
+  background-color: darkcyan;
+  height:300px;
+  width:75%;
+  margin-top: 10px;
+  float:right;
+}
+#footer{
+  background-color: black;
+  height:300px;
+  padding: 10px;
+  margin-top: 10px;
+  float: bottom
+}
